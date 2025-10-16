@@ -3,7 +3,7 @@
 #include <locale.h>
 
 #define TERRITORIOS_MAX 5
-#define MISSOES_MAX 2
+#define MISSOES_MAX 3
 #define STRINGS_MAX_LENGTH 100
 
 
